@@ -76,11 +76,10 @@ To run SAINTexpress:
 
 
 ## **Citing This Repository**
-If you use this modified version of SAINTq/SAINTexpress, please cite this paper and repository:
+If you use this modified version of SAINTq/SAINTexpress, please cite this paper:
 
-_Optimizing Proximity Proteomics on the EvoSep-timsTOF LC–MS System_ : **(https://doi.org/10.1002/pmic.70010)**
+[_Optimizing Proximity Proteomics on the EvoSep-timsTOF LC–MS System_](https://doi.org/10.1002/pmic.70010)
 
-Vesal Kasmaeifar. (2025). vesalkasmaeifar/Modified_SAINTq_and_SAINTexpress: v1.0 (v1.0). Zenodo. https://doi.org/10.5281/zenodo.14889724
 
 ---
 
