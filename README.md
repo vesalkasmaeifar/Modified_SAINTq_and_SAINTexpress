@@ -70,11 +70,6 @@ To run SAINTexpress:
 
 ---
 
-## **Status of this Work**
-- A **full evaluation of these modifications** is currently in preparation by **Kasmaeifar et al.**, in collaboration with the **original SAINT developers**.
-- The results provided here are **preliminary** and subject to further validation.
-
-
 ## **Citing This Repository**
 If you use this modified version of SAINTq/SAINTexpress, please cite this paper:
 
