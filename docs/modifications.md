@@ -30,5 +30,5 @@ In both SAINTq and SAINTexpress, the **hardcoded minimum threshold** for intensi
 
 ### **Example Dataset**
 Using a dataset with baits **ACTB, KRT8, LMNA, and MAPRE3**:
-- **Original SAINTexpress:** Detected fewer than 0 interactors per bait at **1% BFDR**.
-- **Modified SAINTexpress:** Detected ,~50 interactors aligning with known biology.
+- **Original SAINTexpress:** Detected fewer than 2 interactors per bait at **1% BFDR**.
+- **Modified SAINTexpress:** Detected ,~50 interactors per bait aligning with known biology.
